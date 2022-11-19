@@ -1,0 +1,26 @@
+
+#wrapper{
+    height:20vh;
+    width: autopx;
+    background-color:blue;
+    position: relative;
+
+}
+header{
+   
+}
+
+ul{
+    margin-right: 2rem;
+    text-align: center;
+}
+li{
+    color: azure;
+    display: inline-block;
+    margin: 0 0 0 20px;
+    text-align: center;
+
+}
+li :hover{
+    color: blueviolet;
+}
